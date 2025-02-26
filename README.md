@@ -70,10 +70,9 @@ An **AI chatbot** using **Azure OpenAI & Power Virtual Agents** could enhance ad
 - Expanded our **GeoAI** applications **beyond Azure ML Studio** into **Microsoft Fabric & Esri ArcGIS Pro** for **data processing, storage, analysis, visualization & insight**.
 
 ---
-
 ## 📌 Next Steps
-- **Refine our project demo & technical documentation**.
-- **Prepare for MSLA AI Project showcase & future funding opportunities**.
-- **Continue scaling AI + GIS for global wildfire resilience**.
+- **Continue refining AI + GIS wildfire risk assessment models**.  
+- **Explore AI chatbot potential for community-driven risk awareness**.  
+- **Enhance multilingual access & user engagement strategies**.  
 
-🚀 **Bringing AI + GIS solutions to communities in need.**
+🚀 **Advancing AI + GIS solutions to support wildfire resilience worldwide.**
